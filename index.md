@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Swen 101 Github Webpage Assignment - Jahmir Hinds</title>
+Swen 101 Github Webpage Assignment - Jahmir Hinds
 </head>
 <body>
 <p>
